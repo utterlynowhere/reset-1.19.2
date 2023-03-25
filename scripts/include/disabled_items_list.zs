@@ -1,3 +1,4 @@
+//adapted from "Bliss - a peaceful-like experience", credits to Vazkii and Violet Moon
 #priority 100
 import crafttweaker.api.item.IItemStack;
 public class DisabledItems {
