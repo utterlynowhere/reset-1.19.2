@@ -98,8 +98,8 @@
 
 	[tweaks.level_scaling]
 		#Remove the amount of experience per level increasing (experimental)
-		"Remove level scaling" = false
+		"Remove level scaling" = true
 		#The amount of experience per level, if level scaling is removed (experimental)
 		#Range: > 0
-		"Experience per level" = 50
+		"Experience per level" = 20
 
