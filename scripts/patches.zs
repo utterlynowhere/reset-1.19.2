@@ -1,4 +1,3 @@
-
 import crafttweaker.api.item.IItemStack;
 import crafttweaker.api.ingredient.IIngredient;
 

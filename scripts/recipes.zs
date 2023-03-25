@@ -20,6 +20,10 @@ var wood_button = <tag:items:minecraft:wooden_buttons>;
 var iron_nugget = <item:minecraft:iron_nugget>;
 var andesite = <item:minecraft:andesite>;
 
+var p_dripstone_bricks = <item:quark:dripstone_bricks>;
+var p_calcite_bricks = <item:quark:calcite_bricks>;
+var p_tuff_bricks = <item:quark:tuff_bricks>;
+
 var andesite_casing = <item:create:andesite_casing>;
 var iron_sheet = <item:create:iron_sheet>;
 var andesite_alloy = <item:create:andesite_alloy>;
@@ -77,6 +81,21 @@ craftingTable.addShaped("paper_map", map, [
 	[paper, paper, paper]]);
 
 furnace.addRecipe("rf2leather", <item:minecraft:leather>, <item:minecraft:rotten_flesh>, 0.0, 200);
+
+craftingTable.remove(<item:architects_palette:dripstone_bricks>);
+craftingTable.addShaped("ap_dripstone_tiles", <item:architects_palette:dripstone_bricks>*4, [
+							[p_dripstone_bricks,p_dripstone_bricks],
+							[p_dripstone_bricks,p_dripstone_bricks]]);
+
+craftingTable.remove(<item:architects_palette:calcite_bricks>);
+craftingTable.addShaped("ap_calcite_tiles", <item:architects_palette:calcite_bricks>*4, [
+							[p_calcite_bricks,p_calcite_bricks],
+							[p_calcite_bricks,p_calcite_bricks]]);
+
+craftingTable.remove(<item:architects_palette:tuff_bricks>);
+craftingTable.addShaped("ap_tuff_tiles", <item:architects_palette:tuff_bricks>*4, [
+							[p_tuff_bricks,p_tuff_bricks],
+							[p_tuff_bricks,p_tuff_bricks]]);
 
 // create adjustments
 

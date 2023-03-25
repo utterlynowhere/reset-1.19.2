@@ -1,0 +1,19 @@
+{
+  "block.architects_palette.tuff_bricks": "Tuff Tiles",
+  "block.architects_palette.tuff_brick_wall": "Tuff Tile Wall",
+  "block.architects_palette.tuff_brick_stairs": "Tuff Tile Stairs",
+  "block.architects_palette.tuff_brick_slab": "Tuff Tile Slab",
+  "block.architects_palette.tuff_brick_vertical_slab": "Tuff Tile Vertical Slab",
+
+  "block.architects_palette.calcite_bricks": "Calcite Tiles",
+  "block.architects_palette.calcite_brick_wall": "Calcite Tile Wall",
+  "block.architects_palette.calcite_brick_stairs": "Calcite Tile Stairs",
+  "block.architects_palette.calcite_brick_slab": "Calcite Tile Slab",
+  "block.architects_palette.calcite_brick_vertical_slab": "Calcite Tile Vertical Slab",
+
+  "block.architects_palette.dripstone_bricks": "Dripstone Tiles",
+  "block.architects_palette.dripstone_brick_wall": "Dripstone Tile Wall",
+  "block.architects_palette.dripstone_brick_stairs": "Dripstone Tile Stairs",
+  "block.architects_palette.dripstone_brick_slab": "Dripstone Tile Slab",
+  "block.architects_palette.dripstone_brick_vertical_slab": "Dripstone Tile Vertical Slab"
+}

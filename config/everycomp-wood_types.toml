@@ -470,7 +470,7 @@
 
 		[entries.wood_type.another_furniture]
 			shelf = false
-			shutter = false
+			shutter = true
 			planter_box = false
 			bench = false
 			table = true
@@ -479,13 +479,13 @@
 
 		[entries.wood_type.decorative_blocks]
 			beam = true
-			support = false
-			seat = false
+			support = true
+			seat = true
 			palisade = true
 
 		[entries.wood_type.create]
-			window = false
-			window_pane = false
+			window = true
+			window_pane = true
 
 		[entries.wood_type.farmersdelight]
 			cabinet = true
