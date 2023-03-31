@@ -49,6 +49,10 @@
 		[types.wood_type.autumnity]
 			maple = true
 
+		[types.wood_type.homespun]
+			ironwood = true
+			olive = true
+
 	[types.cut_block_type]
 
 		[types.cut_block_type.architects_palette]
@@ -411,6 +415,13 @@
 		[types.cut_block_type.tetra]
 			forged_platform = true
 
+		[types.cut_block_type.homespun]
+			ironwood = true
+			olive = true
+			calcite_brick = true
+			tuff_tile = true
+			cast_iron_tiles = true
+
 	[types.leaves_type]
 
 		[types.leaves_type.architects_palette]
@@ -463,6 +474,10 @@
 			yellow_blossom = true
 			red_blossom = true
 			ancient = true
+
+		[types.leaves_type.homespun]
+			ironwood = true
+			olive = true
 
 [entries]
 
