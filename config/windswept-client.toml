@@ -1,6 +1,9 @@
 
-#Client tweaks
-[client]
-	#If Powder Snow should drop snow particles if there is no block below.
+[particles]
+	#If Powder Snow should drop snow Particles if there is no block below
 	"Powder Snow Particles" = true
+
+[entity-renderers]
+	#Rabbits will be 25% larger
+	"Larger Rabbits" = true
 
